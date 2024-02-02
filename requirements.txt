@@ -1,0 +1,3 @@
+mnemonic
+secp256k1
+bip-utils
