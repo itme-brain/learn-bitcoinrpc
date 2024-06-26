@@ -1,0 +1,4 @@
+bitcoinlib==0.6.15
+mnemonic==0.21
+secp256k1==0.14.0
+bip-utils==2.9.3
